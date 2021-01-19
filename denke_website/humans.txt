@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <JACKSON DENKE> -- <CREATIVE DIRECTOR, LEAD PROGRAMMER, DESIGNER> -- <https://twitter.com/jacksondenke>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
